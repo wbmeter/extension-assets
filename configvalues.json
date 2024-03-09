@@ -1,0 +1,27 @@
+{
+  "cpo_enabled": true,
+  "campaigns_enabled": {
+    "search": true,
+    "search_catalog": true,
+    "catalog": true,
+    "billboard": true,
+    "automatic": true,
+    "carousel_brand_auction": true
+  },
+  "budget_hold_sum": 0,
+  "cpm_min_booster": 125,
+  "cpm_min_search": 200,
+  "cpm_min_search_catalog": 200,
+  "cpm_min": 250,
+  "max_auto_nms_v5": 500,
+  "autonew": true,
+  "ui_update_alert_is_visible": false,
+  "cpm_step": 1,
+  "cpm_min_catalog": 200,
+  "max_auto_nms": 100,
+  "max_nm_count": 50,
+  "budget_min": 500,
+  "feature_cluster_button": true,
+  "searchcat": true,
+  "ui_bets_enabled": false
+}
